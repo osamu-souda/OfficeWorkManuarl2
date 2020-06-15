@@ -1,3 +1,3 @@
 # OfficeWorkManuarl2
 
-業務マニュアル改訂版
+業務マニュアル改訂新版
